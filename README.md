@@ -19,11 +19,11 @@ Follow these steps: (Use if/ else if/ else)
 1. Ask the user to input a number and store it in a variable favNum. Please do a quick research on this window.prompt. 
 2. If favNum is greater than or equal to 1000, console.log "Woah, that's a big number!"
 3. If favNum is greater than or equal to 0, console.log "That's a cool number."
-4. If favNum is less than 0, console.log "Negative numbers?! That's just bananas."
+4. If favNum is less than 0, console.log "Negative numbers?! That's just bananas."<br>
 BONUS:  1. Instead of using the console. log change to alerts JavaScript Alerts
 2. Try inputting a string. What happens? Refactor your code so that when a user inputs a string, you should get a message “Enter a valid integer”
-Research on isNan
-Challenge 2
+Research on isNan <br><br>
+Challenge 2<br>
 For the next challenge, go to this REPO and follow the instructions from the README.
 
 Happy Coding :)
